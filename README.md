@@ -1,0 +1,2 @@
+# miniproject
+A little app
